@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/../../../my/wp-includes/sodium_compat/tests" />
+        <option value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/graham-campbell/guzzle-factory/tests" />
+        <option value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem/tests" />
+        <option value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/monolog/monolog/tests" />
+        <option value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/guzzlehttp/psr7/tests" />
+        <option value="$PROJECT_DIR$/../../../wp-includes/sodium_compat/tests" />
+        <option value="$PROJECT_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/tests" />
+        <option value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/guzzlehttp/guzzle/tests" />
+        <option value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/guzzlehttp/promises/tests" />
+        <option value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/aws/aws-sdk-php/tests" />
+        <option value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/ralouphie/getallheaders/tests" />
+        <option value="$PROJECT_DIR$/../../../ts/PROJECT_NAME/DistributionPackages/Neniri.App/tests" />
+        <option value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/spatie/flysystem-dropbox/tests" />
+        <option value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/spatie/dropbox-api/tests" />
+        <option value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/mtdowling/jmespath.php/tests" />
+        <option value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/cksource/ckfinder/tests" />
+        <option value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem-azure/tests" />
+        <option value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem-cached-adapter/tests" />
+        <option value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/microsoft/azure-storage/tests/unit" />
+      </list>
+    </option>
+  </component>
+</project>

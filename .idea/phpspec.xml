@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPSpec">
+    <suites>
+      <PhpSpecSuiteConfiguration>
+        <option name="myPath" value="$PROJECT_DIR$" />
+      </PhpSpecSuiteConfiguration>
+      <PhpSpecSuiteConfiguration>
+        <option name="myPath" value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem-aws-s3-v3" />
+      </PhpSpecSuiteConfiguration>
+      <PhpSpecSuiteConfiguration>
+        <option name="myPath" value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem" />
+      </PhpSpecSuiteConfiguration>
+      <PhpSpecSuiteConfiguration>
+        <option name="myPath" value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem-aws-s3-v3" />
+      </PhpSpecSuiteConfiguration>
+      <PhpSpecSuiteConfiguration>
+        <option name="myPath" value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem" />
+      </PhpSpecSuiteConfiguration>
+      <PhpSpecSuiteConfiguration>
+        <option name="myPath" value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem-aws-s3-v3" />
+      </PhpSpecSuiteConfiguration>
+      <PhpSpecSuiteConfiguration>
+        <option name="myPath" value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem" />
+      </PhpSpecSuiteConfiguration>
+      <PhpSpecSuiteConfiguration>
+        <option name="namespace" value="League\Flysystem\Cached" />
+        <option name="myPath" value="$PROJECT_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem-cached-adapter" />
+      </PhpSpecSuiteConfiguration>
+    </suites>
+  </component>
+</project>
