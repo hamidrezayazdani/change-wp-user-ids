@@ -1,7 +1,506 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$/../../.." />
+    <content url="file://$MODULE_DIR$/../../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../../my/wp-content/plugins" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../my/wp-content/plugins/elementor/includes" isTestSource="false" packagePrefix="Elementor" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../my/wp-content/plugins/revslider/includes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../my/wp-content/plugins/woocommerce/packages/action-scheduler/classes" isTestSource="false" packagePrefix="Action_Scheduler" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../my/wp-includes" isTestSource="false" packagePrefix="PHPMailer" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../my/wp-includes/sodium_compat/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/libraries/classes" isTestSource="false" packagePrefix="PhpMyAdmin\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/test/classes" isTestSource="true" packagePrefix="PhpMyAdmin\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/test/selenium" isTestSource="true" packagePrefix="PhpMyAdmin\Tests\Selenium\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ts/PROJECT_NAME/DistributionPackages/Neniri.App/Classes" isTestSource="false" packagePrefix="Neniri\App\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../ts/PROJECT_NAME/DistributionPackages/Neniri.App/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/.." isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../elementor-pro" isTestSource="false" packagePrefix="ElementorPro" />
+      <sourceFolder url="file://$MODULE_DIR$/../elementor/includes" isTestSource="false" packagePrefix="Elementor" />
+      <sourceFolder url="file://$MODULE_DIR$/../gpt3-ai-content-generator/classes" isTestSource="false" packagePrefix="WPAICG" />
+      <sourceFolder url="file://$MODULE_DIR$/../learnpress/inc" isTestSource="false" packagePrefix="LearnPress" />
+      <sourceFolder url="file://$MODULE_DIR$/../tutor/classes" isTestSource="false" packagePrefix="TUTOR" />
+      <sourceFolder url="file://$MODULE_DIR$/../tutor/restapi" isTestSource="false" packagePrefix="TUTOR" />
+      <sourceFolder url="file://$MODULE_DIR$/../woocommerce/packages/action-scheduler/classes" isTestSource="false" packagePrefix="Action_Scheduler" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/aws/aws-sdk-php/src" isTestSource="false" packagePrefix="Aws\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/aws/aws-sdk-php/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/aws/aws-sdk-php/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/cksource/ckfinder/plugins" isTestSource="false" packagePrefix="CKSource\CKFinder\Plugin\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/cksource/ckfinder/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/cksource/ckfinder/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/graham-campbell/guzzle-factory/src" isTestSource="false" packagePrefix="GrahamCampbell\GuzzleFactory\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/graham-campbell/guzzle-factory/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/graham-campbell/guzzle-factory/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/guzzlehttp/guzzle/src" isTestSource="false" packagePrefix="GuzzleHttp\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/guzzlehttp/guzzle/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/guzzlehttp/guzzle/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/guzzlehttp/promises/src" isTestSource="false" packagePrefix="GuzzleHttp\Promise\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/guzzlehttp/promises/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/guzzlehttp/psr7/src" isTestSource="false" packagePrefix="GuzzleHttp\Psr7\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/guzzlehttp/psr7/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/guzzlehttp/psr7/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem-aws-s3-v3/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem-aws-s3-v3/src" isTestSource="false" packagePrefix="League\Flysystem\AwsS3v3\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem-aws-s3-v3/stub" isTestSource="true" packagePrefix="League\Flysystem\AwsS3v3\Stub\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem-azure/src" isTestSource="false" packagePrefix="League\Flysystem\Azure\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem-azure/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem-cached-adapter/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem-cached-adapter/src" isTestSource="false" packagePrefix="League\Flysystem\Cached\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem-cached-adapter/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem/src" isTestSource="false" packagePrefix="League\Flysystem\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem/stub" isTestSource="true" packagePrefix="League\Flysystem\Stub\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/league/flysystem/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/microsoft/azure-storage/src" isTestSource="false" packagePrefix="MicrosoftAzure\Storage\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/microsoft/azure-storage/tests" isTestSource="true" packagePrefix="MicrosoftAzure\Storage\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/microsoft/azure-storage/tests/unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/monolog/monolog/src/Monolog" isTestSource="false" packagePrefix="Monolog\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/monolog/monolog/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/monolog/monolog/tests/Monolog" isTestSource="true" packagePrefix="Monolog\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/mtdowling/jmespath.php/src" isTestSource="false" packagePrefix="JmesPath\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/mtdowling/jmespath.php/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/pimple/pimple/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/psr/cache/src" isTestSource="false" packagePrefix="Psr\Cache\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/psr/container/src" isTestSource="false" packagePrefix="Psr\Container\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/psr/event-dispatcher/src" isTestSource="false" packagePrefix="Psr\EventDispatcher\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/psr/http-message/src" isTestSource="false" packagePrefix="Psr\Http\Message\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/psr/log/Psr/Log" isTestSource="false" packagePrefix="Psr\Log\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/ralouphie/getallheaders/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/ralouphie/getallheaders/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/spatie/dropbox-api/src" isTestSource="false" packagePrefix="Spatie\Dropbox\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/spatie/dropbox-api/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/spatie/dropbox-api/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/spatie/flysystem-dropbox/src" isTestSource="false" packagePrefix="Spatie\FlysystemDropbox\" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/spatie/flysystem-dropbox/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/al-dikor/modules/mega-menu/js/ckfinder/core/connector/php/spatie/flysystem-dropbox/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/lachin/modules/rest-api-handler/wp-simple-rest-api-authentication/includes" isTestSource="false" packagePrefix="OneTeamSoftware" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/yazdaniwp-rm/inc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/ywp-beytasco/library" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/ywp-fabrikfrance/inc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/ywp-humanithe/inc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/modules/rest-api-handler/wp-simple-rest-api-authentication/includes" isTestSource="false" packagePrefix="OneTeamSoftware" />
+      <sourceFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/elasticpress/includes/classes" isTestSource="false" packagePrefix="ElasticPress" />
+      <sourceFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/woocommerce/packages/action-scheduler/classes" isTestSource="false" packagePrefix="Action_Scheduler" />
+      <sourceFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/wp-health/src" isTestSource="false" packagePrefix="WPUmbrella" />
+      <sourceFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/wp-health/thirds/action-scheduler/classes" isTestSource="false" packagePrefix="Action_Scheduler" />
+      <sourceFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-beytasco/library" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-fabrikfrance/inc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../wp-includes" isTestSource="false" packagePrefix="PHPMailer" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../wp-includes/sodium_compat/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../editor/vendor/codex-team/editor.js" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../editor/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../editor/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/bacon/bacon-qr-code" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/beberlei/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/code-lts/u2f-php-server" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/dasprid/enum" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/desktop/safe" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/fgrosse/phpasn1" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/fig/http-message-util" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/google/recaptcha" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/league/uri" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/league/uri-interfaces" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/nikic/fast-route" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/paragonie/constant_time_encoding" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/paragonie/sodium_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/phpmyadmin/motranslator" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/phpmyadmin/shapefile" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/phpmyadmin/sql-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/phpmyadmin/twig-i18n-extension" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/pragmarx/google2fa" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/pragmarx/google2fa-qrcode" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/slim/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/spomky-labs/base64url" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/spomky-labs/cbor-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/symfony/expression-language" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/symfony/polyfill-php81" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/tecnickcom/tcpdf" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/web-auth/cose-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/web-auth/metadata-service" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/web-auth/webauthn-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/vendor/williamdes/mariadb-mysql-kbs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../warehouse/vendor/automattic/woocommerce" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../warehouse/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../arv-wc-player/vendor/aminyazdanpanah/php-ffmpeg-video-streaming" />
+      <excludeFolder url="file://$MODULE_DIR$/../arv-wc-player/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../arv-wc-player/vendor/evenement/evenement" />
+      <excludeFolder url="file://$MODULE_DIR$/../arv-wc-player/vendor/php-ffmpeg/php-ffmpeg" />
+      <excludeFolder url="file://$MODULE_DIR$/../arv-wc-player/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../arv-wc-player/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/../arv-wc-player/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../arv-wc-player/vendor/spatie/temporary-directory" />
+      <excludeFolder url="file://$MODULE_DIR$/../arv-wc-player/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../arv-wc-player/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../arv-wc-player/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/../arv-wc-player/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/../arv-wc-player/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../arv-wc-player/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/../arv-wc-player/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../arv-wc-player/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/../mahak-correct/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../mahak-correct/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../mahak-correct/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/../mahak-correct/vendor/markbaker/matrix" />
+      <excludeFolder url="file://$MODULE_DIR$/../mahak-correct/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/../mahak-correct/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/../mahak-correct/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/../mahak-correct/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/../mahak-correct/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../mahak-correct/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../woocommerce-amazing-search/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../woocommerce-amazing-search/vendor/loilo/fuse" />
+      <excludeFolder url="file://$MODULE_DIR$/../wp-crontrol/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../ywp-accounting-import/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../ywp-accounting-import/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/../ywp-accounting-import/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../ywp-accounting-import/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/../ywp-accounting-import/vendor/markbaker/matrix" />
+      <excludeFolder url="file://$MODULE_DIR$/../ywp-accounting-import/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/../ywp-accounting-import/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/../ywp-accounting-import/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/../ywp-accounting-import/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/../ywp-accounting-import/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../ywp-accounting-import/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/amphp/amp" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/amphp/byte-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/felixfbecker/advanced-json-rpc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/felixfbecker/language-server-protocol" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/netresearch/jsonmapper" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/openlss/lib-array2xml" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/php-stubs/wordpress-stubs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/phpstan/phpstan" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/szepeviktor/phpstan-wordpress" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/vimeo/psalm" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor - Copy/vendor/webmozart/path-util" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/amphp/amp" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/amphp/byte-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/felixfbecker/advanced-json-rpc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/felixfbecker/language-server-protocol" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/netresearch/jsonmapper" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/openlss/lib-array2xml" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/php-stubs/wordpress-stubs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/phpstan/phpstan" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/szepeviktor/phpstan-wordpress" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/vimeo/psalm" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/al-dikor/vendor/webmozart/path-util" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin-shop/modules/sms/lib/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin-shop/modules/sms/lib/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin-shop/modules/sms/lib/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin-shop/modules/sms/lib/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin-shop/modules/sms/lib/vendor/markbaker/matrix" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin-shop/modules/sms/lib/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin-shop/modules/sms/lib/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin-shop/modules/sms/lib/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin-shop/modules/sms/lib/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin-shop/modules/sms/lib/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin-shop/modules/sms/lib/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin-shop/modules/sms/lib/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin-shop/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin-shop/vendor/squizlabs/php_codesniffer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin/modules/rest-api-handler/1/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin/modules/rest-api-handler/1/vendor/nicumicle/simple-jwt-login-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin/modules/sms/lib/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin/modules/sms/lib/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin/modules/sms/lib/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin/modules/sms/lib/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin/modules/sms/lib/vendor/markbaker/matrix" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin/modules/sms/lib/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin/modules/sms/lib/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin/modules/sms/lib/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin/modules/sms/lib/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin/modules/sms/lib/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin/modules/sms/lib/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/lachin/modules/sms/lib/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/yazdaniwp-rm/back-end/export-customers/lib/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/yazdaniwp-rm/back-end/export-customers/lib/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/yazdaniwp-rm/back-end/export-customers/lib/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/yazdaniwp-rm/back-end/export-customers/lib/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/yazdaniwp-rm/back-end/export-customers/lib/vendor/markbaker/matrix" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/yazdaniwp-rm/back-end/export-customers/lib/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/yazdaniwp-rm/back-end/export-customers/lib/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/yazdaniwp-rm/back-end/export-customers/lib/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/yazdaniwp-rm/back-end/export-customers/lib/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/yazdaniwp-rm/back-end/export-customers/lib/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/yazdaniwp-rm/back-end/export-customers/lib/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/yazdaniwp-rm/back-end/export-customers/lib/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/modules/sms/lib/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/modules/sms/lib/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/modules/sms/lib/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/modules/sms/lib/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/modules/sms/lib/vendor/markbaker/matrix" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/modules/sms/lib/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/modules/sms/lib/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/modules/sms/lib/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/modules/sms/lib/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/modules/sms/lib/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/modules/sms/lib/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/modules/sms/lib/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/amphp/amp" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/amphp/byte-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/felixfbecker/advanced-json-rpc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/felixfbecker/language-server-protocol" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/netresearch/jsonmapper" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/openlss/lib-array2xml" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/php-stubs/woocommerce-stubs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/php-stubs/wordpress-stubs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/phpstan/phpstan" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/szepeviktor/phpstan-wordpress" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/vimeo/psalm" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-avon/vendor/webmozart/path-util" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/modules/rest-api-handler/1/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/modules/rest-api-handler/1/vendor/nicumicle/simple-jwt-login-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/modules/sms/lib/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/modules/sms/lib/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/modules/sms/lib/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/modules/sms/lib/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/modules/sms/lib/vendor/markbaker/matrix" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/modules/sms/lib/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/modules/sms/lib/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/modules/sms/lib/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/modules/sms/lib/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/modules/sms/lib/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/modules/sms/lib/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/modules/sms/lib/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/elastic/transport" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/elasticsearch/elasticsearch" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/nicumicle/simple-jwt-login-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/php-http/discovery" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/php-http/httplug" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/php-http/promise" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/php-stubs/woocommerce-stubs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/php-stubs/wordpress-stubs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/phpstan/phpstan" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/szepeviktor/phpstan-wordpress" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes/ywp-zzzagros/vendor/woocommerce/action-scheduler" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-a8c-mc-stats" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-abtest" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-assets" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-backup" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-blocks" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-compat" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-config" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-connection" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-connection-ui" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-constants" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-device-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-error" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-heartbeat" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-identity-crisis" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-jitm" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-lazy-images" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-licensing" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-logo" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-options" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-partner" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-password-checker" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-redirect" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-roles" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-status" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-sync" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-terms-of-service" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/automattic/jetpack-tracking" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/plugins/jetpack/vendor/nojimage/twitter-text-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/modules/sms/lib/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/modules/sms/lib/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/modules/sms/lib/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/modules/sms/lib/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/modules/sms/lib/vendor/markbaker/matrix" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/modules/sms/lib/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/modules/sms/lib/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/modules/sms/lib/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/modules/sms/lib/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/modules/sms/lib/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/modules/sms/lib/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/modules/sms/lib/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/amphp/amp" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/amphp/byte-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/felixfbecker/advanced-json-rpc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/felixfbecker/language-server-protocol" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/netresearch/jsonmapper" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/openlss/lib-array2xml" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/php-stubs/wordpress-stubs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/phpstan/phpstan" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/szepeviktor/phpstan-wordpress" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/vimeo/psalm" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-avon/vendor/webmozart/path-util" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-suraw/modules/sms/lib/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-suraw/modules/sms/lib/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-suraw/modules/sms/lib/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-suraw/modules/sms/lib/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-suraw/modules/sms/lib/vendor/markbaker/matrix" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-suraw/modules/sms/lib/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-suraw/modules/sms/lib/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-suraw/modules/sms/lib/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-suraw/modules/sms/lib/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-suraw/modules/sms/lib/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-suraw/modules/sms/lib/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-suraw/modules/sms/lib/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-suraw/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-suraw/vendor/squizlabs/php_codesniffer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/modules/sms/lib/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/modules/sms/lib/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/modules/sms/lib/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/modules/sms/lib/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/modules/sms/lib/vendor/markbaker/matrix" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/modules/sms/lib/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/modules/sms/lib/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/modules/sms/lib/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/modules/sms/lib/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/modules/sms/lib/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/modules/sms/lib/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/modules/sms/lib/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/amphp/amp" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/amphp/byte-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/felixfbecker/advanced-json-rpc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/felixfbecker/language-server-protocol" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/netresearch/jsonmapper" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/openlss/lib-array2xml" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/php-stubs/wordpress-stubs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/phpstan/phpstan" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/szepeviktor/phpstan-wordpress" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/vimeo/psalm" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/../../wp-content1111/themes/ywp-zzzagros/vendor/webmozart/path-util" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
